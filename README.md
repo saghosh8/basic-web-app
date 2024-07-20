@@ -1,6 +1,3 @@
-Here’s a `README.md` file with the details you provided:
-
-```markdown
 # Basic Web Application Deployment
 
 ## Tools to Download or Use
@@ -32,6 +29,7 @@ Here’s a `README.md` file with the details you provided:
 1. Build the Docker image:
    ```bash
    docker build -t your-dockerhub-username/basic-web-app:latest .
+
    ```
 2. Push the image to Docker Hub:
    ```bash
