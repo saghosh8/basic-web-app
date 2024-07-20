@@ -52,4 +52,3 @@
 1. Use `kubectl get services` to find the external IP of your service and access the web application in your browser.
 
 Feel free to reach out if you need any more details or help with any of the steps!
-```
